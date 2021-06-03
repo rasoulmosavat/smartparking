@@ -7,3 +7,6 @@ This project consists of three main parts. 1- Application 2- Camera 3- Sensors 1
 3- Ultrasonic sensors: The number of empty parking spaces in each parking lot is determined by ultrasonic sensors. A sensor is placed in each parking space and sends the status of the parking space (empty or full) to the server every 5 minutes. Then the number of empty parking spaces in each parking lot on the server is updated.
 
 This project has four main components (Technical discuss). 1- Application 2- Camera 3- Sensors 4- API
+
+
+![2345](https://user-images.githubusercontent.com/74821847/120717787-6ca22100-c4c8-11eb-85af-ad686d01866e.jpg)
