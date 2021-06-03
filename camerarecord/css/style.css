@@ -1,0 +1,46 @@
+/*//////////////*/
+/*Desctop version*/
+
+
+@media (max-width: 575px){
+.categoriessize{
+    width:135px;
+    margin-left:5%;
+
+} 
+
+.categoriessize img{
+    width:135px;
+    height:135px;
+}
+
+.findlocation{
+    margin-left:20%;
+}
+
+.findlocation h4{
+    margin-left:-5%;
+}
+    
+}
+/*Desctop*/
+@media (min-width: 576px){
+ .categoriessize{
+    width:250px;
+    /*height:200px;*/
+}  
+
+.categoriessize img{
+    width:200px;
+    height:200px;
+}
+
+.findlocation{
+    margin-left:0%;
+}
+.findlocation h4{
+    margin-left:-2%;
+}
+
+}
+
