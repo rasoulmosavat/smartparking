@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lucid-dynamo-306115",
+  "private_key_id": "954e140a44ecc36bad010d3cc64f70dc1a364ef0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvY3K4CjIBBId4\n2f3qU4S7EHjoc/l509o7X1UXZib9kxedaHC00K56V9/HlTDU9IgfJTy493hffiF7\nGfLm5lDySktLMpvOLqPyz+punE+rJZSx3AXxH/uDHdqXFUZLM58nwfti2vM5O+4W\nGbuCpKXOs3VF/uVhUwRb+cb4F0szmuir8CO4JeGHnC5iTv4LvGKXYTQgVv3752E5\nyNxSpagZOL/0bJj35OwjoZfkaz6i/gKrPDXm3lyXNeXxazD+ZwZHKtwF9s1RdbXS\nLc3H9WJYg7kYN2X32gi1octWNAmkeY0RBEa4QDmHWXrPoyylLJsKJQxefH1pqZzG\nr4eCIw6nAgMBAAECggEAVvGNpP4o26hLH/WwkcDlQ3Ze+ZzER0hmHpibrgXNvlZ0\nlmt3s6rfU3bMUDv9ARRXhlkHSQokefIk1sl+SEhUSEfcG2LzKbqlO3EmXb7PH6B5\nndHcgDPCkrTx74N0XUMx2pum6tJvUCgNVpdbBOBp8ZW0xQYe36gvuQiRQdsKRIHs\nBkbwfqM38505W7cw0+lJz8QnQmrUXV/MMBuOJ12BGvJ6W6fp8FGMqkM0hzMCCtsQ\nJ/iuFcnvv3qQNAuF2w1+2KOPa+CbMaj8shxjZKFbDNiY85SP88ruTOzYp5khZsC7\n8vksueED7Ap43tY7fQUSUZb29uWjwYkPd1sEMkpDQQKBgQDfSHaROo+idW/LdRvi\nli0Y1kttr8bDST0AOD81wD8PpAJR9Kx69+lL8U4fuCbNCrYbG+hwSLYFT3gKTGVQ\nJ3m2bhazAddKdnGxST38ULexwkFgSubP+KiqVfx5kh45Lcrk/m3w8Kk52vN4YobO\nDeJvolfXNiBaMqYmf3bKbtwYNQKBgQDJFmsVQHkiNV8Hw+etXoiv3lndVYDbggep\n8UaXW0axu5k7hQ8vxmawbja7uz4hTOjRiRRu86NJJf9rsuzWQqI3yCpZbymaythI\nJqamZwCrv0TCfCP9YKC90LZb4VIyjXxEcTse2VJNzTD0jCIGT6xjlV5RepbOPsrY\nbRabTsw+6wKBgFk2MbF7DXKiq2VGSDrzN9eJn5+WsLrMI2RYFOFcC5YrOIYYVWXY\ncc1W/5jq0g3wrqwMLYXXd2qNwu+ScJRjAV1jhQxGuwdUZb6o/ew3L/4FGGvp4WjM\n+E7+hh7ow8yiwENYaQLwlRy5n7fE3gmsQIHMAn7JcIm5XOta2FKvkp7VAoGAf4Gr\nnOoo5Twaaf4a5Z/P5FSFfwc8kfO9kFDhhg/mn8RowYj5vD1919nK8vcjylHOPy9A\nuanbnAJwF4Z5DtNpsR1HXTZTl0eQJQ/9E/60OjMqEnhNCdk/k5zIRTJ2wH9ekLeL\n2V/MBHFb3XUODhpvISYRjHDDNzwxu1JQx2ILuMkCgYEAs7QEhBjWBGn9iMtCxePi\ntg1m7Rvb13qIYvlqZGl+K8KKaymuLAZkMgEA7/KYwAxb3LPmU2DJgatUSfRs8Ejg\n6LCmP2lY3PFwc2uCbF5tr9DJ1KieAm70r1443k0a51uRJLVHN0j1SrXS9AiVRa5V\nTzKF7R8ru6b1lm/9oWFrH+E=\n-----END PRIVATE KEY-----\n",
+  "client_email": "myphpnotes@lucid-dynamo-306115.iam.gserviceaccount.com",
+  "client_id": "116242210650846915977",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/myphpnotes%40lucid-dynamo-306115.iam.gserviceaccount.com"
+}
